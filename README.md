@@ -1,7 +1,7 @@
-# Aplicativo de Geoestatística Aplicada
+# Geoestatística Aplicada
 
 ## Descrição
-Aplicativo Shiny para análise geoestatística utilizando o dataset Meuse do pacote sp.
+Aplicativo Shiny para Análise Geoestatística utilizando o dataset Meuse.
 
 ## Funcionalidades
 1. **Dados e Mapa**: Visualização do dataset Meuse
@@ -14,11 +14,6 @@ Aplicativo Shiny para análise geoestatística utilizando o dataset Meuse do pac
 ## Requisitos
 - R 4.0+
 - Pacotes listados no `manifest.json`
-
-## Deploy no Posit Connect
-1. Certifique-se de que todos os arquivos estão no diretório
-2. Faça upload do diretório completo
-3. O Posit Connect instalará automaticamente as dependências
 
 ## Estrutura de Arquivos
 - `app.R`: Código principal do aplicativo
