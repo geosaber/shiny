@@ -2,14 +2,5 @@
   "version": 1,
   "metadata": {
     "appmode": "shiny"
-  },
-  "packages": [
-    "shiny",
-    "gstat",
-    "sf",
-    "ggplot2",
-    "dplyr",
-    "DT",
-    "RColorBrewer"
-  ]
+  }
 }
