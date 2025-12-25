@@ -1,0 +1,2 @@
+# shiny
+Geostats Shiny App
